@@ -13,6 +13,8 @@ else{
 console.log("You are allowed to vote");
 };
 
+// ternarary operator
+console.log (age>18?"You can Drive":"You cannot drive");
 
 
 //HomeWork - Switch Case;
